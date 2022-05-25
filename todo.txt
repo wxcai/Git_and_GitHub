@@ -10,3 +10,5 @@ MY TO-DO LIST
 7. Practice code
 
 8. add wc_branch #1
+
+9. Edit from GitHub. To be pulled to local
